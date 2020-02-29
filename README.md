@@ -1,4 +1,4 @@
-### Palestra sobre Fatec Pocket
+# Palestra sobre o Fatec Pocket
 
 Para a apresentação foi utilizada a biblioteca javascript `Impress` (https://impress.js.org/#/bored)
 
