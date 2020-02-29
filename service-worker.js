@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FatecPocketTalk/precache-manifest.147925b82904181b7a48c0fe30d34ae9.js"
+  "/FatecPocketTalk/precache-manifest.876add6ea2cc62ff04ad5f24db15e62f.js"
 );
 
 self.addEventListener('message', (event) => {
