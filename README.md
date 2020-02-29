@@ -6,3 +6,5 @@ Na branch `master` está o projeto em React, e na branch `gh-pages` é onde se e
 
 Para visualizar a apresentação, basta acessar o link abaixo:
 
+https://brunoeleodoro.github.io/FatecPocketTalk/
+
