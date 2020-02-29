@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "694dfbd319ba754d967ddd6871d0513f",
+    "revision": "a292abbb20f018d913417f125068d245",
     "url": "/FatecPocketTalk/index.html"
   },
   {
