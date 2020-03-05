@@ -383,7 +383,9 @@ sup {
 	bottom: 14%;
 	z-index: 9999;
 	border-radius: 3px;
-	filter: drop-shadow(0 8px 8px rgba(0, 0, 0, .3))
+	filter: drop-shadow(0 8px 8px rgba(0, 0, 0, .3));
+	display: none;
+	visibility: hidden;
 }
 
 .hint b {
