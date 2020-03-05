@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/FatecPocketTalk/static/css/main.4b45dbe9.chunk.css",
-    "main.js": "/FatecPocketTalk/static/js/main.3640a7c5.chunk.js",
-    "main.js.map": "/FatecPocketTalk/static/js/main.3640a7c5.chunk.js.map",
+    "main.css": "/FatecPocketTalk/static/css/main.0101f89d.chunk.css",
+    "main.js": "/FatecPocketTalk/static/js/main.79657180.chunk.js",
+    "main.js.map": "/FatecPocketTalk/static/js/main.79657180.chunk.js.map",
     "runtime-main.js": "/FatecPocketTalk/static/js/runtime-main.c7cf72db.js",
     "runtime-main.js.map": "/FatecPocketTalk/static/js/runtime-main.c7cf72db.js.map",
-    "static/js/2.a59cdba2.chunk.js": "/FatecPocketTalk/static/js/2.a59cdba2.chunk.js",
-    "static/js/2.a59cdba2.chunk.js.map": "/FatecPocketTalk/static/js/2.a59cdba2.chunk.js.map",
+    "static/js/2.0b3d7dbd.chunk.js": "/FatecPocketTalk/static/js/2.0b3d7dbd.chunk.js",
+    "static/js/2.0b3d7dbd.chunk.js.map": "/FatecPocketTalk/static/js/2.0b3d7dbd.chunk.js.map",
     "index.html": "/FatecPocketTalk/index.html",
-    "precache-manifest.22799bc3383a4e373124e71394e56a85.js": "/FatecPocketTalk/precache-manifest.22799bc3383a4e373124e71394e56a85.js",
+    "precache-manifest.1883a2376cdfc9594d3ce491332de920.js": "/FatecPocketTalk/precache-manifest.1883a2376cdfc9594d3ce491332de920.js",
     "service-worker.js": "/FatecPocketTalk/service-worker.js",
-    "static/css/main.4b45dbe9.chunk.css.map": "/FatecPocketTalk/static/css/main.4b45dbe9.chunk.css.map",
-    "static/js/2.a59cdba2.chunk.js.LICENSE.txt": "/FatecPocketTalk/static/js/2.a59cdba2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/FatecPocketTalk/static/media/logo.5d5d9eef.svg"
+    "static/css/main.0101f89d.chunk.css.map": "/FatecPocketTalk/static/css/main.0101f89d.chunk.css.map",
+    "static/js/2.0b3d7dbd.chunk.js.LICENSE.txt": "/FatecPocketTalk/static/js/2.0b3d7dbd.chunk.js.LICENSE.txt",
+    "static/media/detalhes_disciplina.png": "/FatecPocketTalk/static/media/detalhes_disciplina.d783661d.png",
+    "static/media/faltas.png": "/FatecPocketTalk/static/media/faltas.8e14568a.png",
+    "static/media/horarios.png": "/FatecPocketTalk/static/media/horarios.91fb3445.png",
+    "static/media/logo.svg": "/FatecPocketTalk/static/media/logo.5d5d9eef.svg",
+    "static/media/notas.png": "/FatecPocketTalk/static/media/notas.14e8681f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c7cf72db.js",
-    "static/js/2.a59cdba2.chunk.js",
-    "static/css/main.4b45dbe9.chunk.css",
-    "static/js/main.3640a7c5.chunk.js"
+    "static/js/2.0b3d7dbd.chunk.js",
+    "static/css/main.0101f89d.chunk.css",
+    "static/js/main.79657180.chunk.js"
   ]
 }
